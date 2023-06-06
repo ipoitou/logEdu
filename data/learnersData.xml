@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<lmdc>
+    <learner pw="PWAlice">
+        <firstname>Alice</firstname>
+		<class>6B</class>
+		<avatar>avatar1.png</avatar>
+		<length level="2">
+			<conversions1>11</conversions1>
+			<conversions2>18</conversions2>
+			<conversions3>5</conversions3>
+		</length>
+		<area level="3">
+			<conversions1>11</conversions1>
+			<conversions2>18</conversions2>
+			<conversions3>20</conversions3>
+		</area>
+		<capacity level="1">
+			<conversions1>19</conversions1>
+			<conversions2>8</conversions2>
+			<conversions3>0</conversions3>
+		</capacity>
+		<volume level="0">
+			<conversions1>12</conversions1>
+			<conversions2>0</conversions2>
+			<conversions3>0</conversions3>
+		</volume>
+    </learner>
+    <learner pw="PWBob">
+        <firstname>Bob</firstname>
+		<class>6F</class>
+		<avatar>avatar21.png</avatar>
+		<length level="1">
+			<conversions1>10</conversions1>
+			<conversions2>15</conversions2>
+			<conversions3>0</conversions3>
+		</length>
+		<area level="2">
+			<conversions1>8</conversions1>
+			<conversions2>12</conversions2>
+			<conversions3>5</conversions3>
+		</area>
+		<capacity level="3">
+			<conversions1>10</conversions1>
+			<conversions2>10</conversions2>
+			<conversions3>6</conversions3>
+		</capacity>
+		<volume level="1">
+			<conversions1>14</conversions1>
+			<conversions2>19</conversions2>
+			<conversions3>0</conversions3>
+		</volume>
+    </learner>
+	<learner pw="PWNaofel">
+        <firstname>Naofel</firstname>
+		<class>6F</class>
+		<avatar>avatar14.png</avatar>
+		<length level="3">
+			<conversions1>11</conversions1>
+			<conversions2>10</conversions2>
+			<conversions3>15</conversions3>
+		</length>
+		<area level="2">
+			<conversions1>11</conversions1>
+			<conversions2>18</conversions2>
+			<conversions3>10</conversions3>
+		</area>
+		<capacity level="3">
+			<conversions1>11</conversions1>
+			<conversions2>16</conversions2>
+			<conversions3>10</conversions3>
+		</capacity>
+		<volume level="2">
+			<conversions1>12</conversions1>
+			<conversions2>18</conversions2>
+			<conversions3>0</conversions3>
+		</volume>
+    </learner>
+	<learner pw="PWNassim">
+        <firstname>Nassim</firstname>
+		<class>6F</class>
+		<avatar>avatar18.png</avatar>
+		<length level="3">
+			<conversions1>11</conversions1>
+			<conversions2>15</conversions2>
+			<conversions3>15</conversions3>
+		</length>
+		<area level="2">
+			<conversions1>16</conversions1>
+			<conversions2>21</conversions2>
+			<conversions3>0</conversions3>
+		</area>
+		<capacity level="1">
+			<conversions1>11</conversions1>
+			<conversions2>8</conversions2>
+			<conversions3>0</conversions3>
+		</capacity>
+		<volume level="0">
+			<conversions1>15</conversions1>
+			<conversions2>0</conversions2>
+			<conversions3>0</conversions3>
+		</volume>
+    </learner>
+	<learner pw="PWLoane">
+        <firstname>Loane</firstname>
+		<class>6F</class>
+		<avatar>avatar2.png</avatar>
+		<length level="3">
+			<conversions1>9</conversions1>
+			<conversions2>10</conversions2>
+			<conversions3>15</conversions3>
+		</length>
+		<area level="2">
+			<conversions1>11</conversions1>
+			<conversions2>18</conversions2>
+			<conversions3>0</conversions3>
+		</area>
+		<capacity level="3">
+			<conversions1>8</conversions1>
+			<conversions2>8</conversions2>
+			<conversions3>10</conversions3>
+		</capacity>
+		<volume level="0">
+			<conversions1>0</conversions1>
+			<conversions2>0</conversions2>
+			<conversions3>0</conversions3>
+		</volume>
+	<learner pw="PWJulia">
+        <firstname>Julia</firstname>
+		<class>6F</class>
+		<avatar>avatar3.png</avatar>
+		<length level="3">
+			<conversions1>9</conversions1>
+			<conversions2>10</conversions2>
+			<conversions3>12</conversions3>
+		</length>
+		<area level="3">
+			<conversions1>12</conversions1>
+			<conversions2>18</conversions2>
+			<conversions3>20</conversions3>
+		</area>
+		<capacity level="3">
+			<conversions1>12</conversions1>
+			<conversions2>10</conversions2>
+			<conversions3>10</conversions3>
+		</capacity>
+		<volume level="2">
+			<conversions1>12</conversions1>
+			<conversions2>10</conversions2>
+			<conversions3>0</conversions3>
+		</volume>
+    </learner>
+    </learner>
+</lmdc>
+
